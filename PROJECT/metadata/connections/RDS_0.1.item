@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_NX7ZgM48Ee-qKu9YvccP7w" name="RDS" id="_kM_iMM47Ee-qKu9YvccP7w" label="RDS" dataPackage="_NZOaAM48Ee-qKu9YvccP7w _NZOaAc48Ee-qKu9YvccP7w _NZOaAs48Ee-qKu9YvccP7w _NZOaA848Ee-qKu9YvccP7w _NZOaBM48Ee-qKu9YvccP7w" DatabaseType="MySQL" DriverClass="com.mysql.cj.jdbc.Driver" URL="jdbc:mysql://sascodb.c3q64mawyuuk.ap-southeast-1.rds.amazonaws.com:3306/?noDatetimeStringSync=true&amp;enabledTLSProtocols=TLSv1.2,TLSv1.1,TLSv1" dbVersionString="MYSQL_8" Port="3306" Username="sascodbadmin" Password="enc:system.encryption.key.v1:ZG66buwve2RrJpRCE8aikHaOFeoMJx2e/ARHEuTp1/JRfz3vVwH/dPY=" ServerName="sascodb.c3q64mawyuuk.ap-southeast-1.rds.amazonaws.com" DatasourceName="" FileFieldName="" SID="" SqlSynthax="" StringQuote="" NullChar="" DbmsId="mysql_id" ProductId="MYSQL" AdditionalParams="noDatetimeStringSync=true&amp;enabledTLSProtocols=TLSv1.2,TLSv1.1,TLSv1" StandardSQL="true" SQLMode="false" UiSchema="" supportNLS="false">
+    <taggedValue xmi:id="_NX8noM48Ee-qKu9YvccP7w" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_NYbIwM48Ee-qKu9YvccP7w" tag="package filter" value=""/>
+    <taggedValue xmi:id="_NYk5wM48Ee-qKu9YvccP7w" tag="Status" value=""/>
+    <taggedValue xmi:id="_NYk5wc48Ee-qKu9YvccP7w" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_NYk5ws48Ee-qKu9YvccP7w" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_NYk5w848Ee-qKu9YvccP7w" tag="Description" value=""/>
+    <taggedValue xmi:id="_NYk5xM48Ee-qKu9YvccP7w" tag="Author" value=""/>
+    <taggedValue xmi:id="_NYk5xc48Ee-qKu9YvccP7w" tag="otherParameter"/>
+    <taggedValue xmi:id="_NY4bwM48Ee-qKu9YvccP7w" tag="DB ProductName" value="MySQL"/>
+    <taggedValue xmi:id="_NY4bwc48Ee-qKu9YvccP7w" tag="DB ProductVersion" value="8.0.39"/>
+    <taggedValue xmi:id="_NY4bws48Ee-qKu9YvccP7w" tag="DB IdentifierQuoteString" value="`"/>
+    <parameters xmi:id="_NX8noc48Ee-qKu9YvccP7w" key="CONN_PARA_KEY_USERNAME" value="sascodbadmin"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_NZOaAM48Ee-qKu9YvccP7w" name="SascoDb" dataManager="_NX7ZgM48Ee-qKu9YvccP7w"/>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_NZOaAc48Ee-qKu9YvccP7w" name="information_schema" dataManager="_NX7ZgM48Ee-qKu9YvccP7w"/>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_NZOaAs48Ee-qKu9YvccP7w" name="mysql" dataManager="_NX7ZgM48Ee-qKu9YvccP7w"/>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_NZOaA848Ee-qKu9YvccP7w" name="performance_schema" dataManager="_NX7ZgM48Ee-qKu9YvccP7w"/>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_NZOaBM48Ee-qKu9YvccP7w" name="sys" dataManager="_NX7ZgM48Ee-qKu9YvccP7w"/>
+</xmi:XMI>
