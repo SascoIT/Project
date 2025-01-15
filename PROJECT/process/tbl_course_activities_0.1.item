@@ -287,20 +287,20 @@
       <column comment="" key="false" length="1000" name="updated_by" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
       <column comment="" key="false" length="-1" name="updated_on" nullable="true" pattern="&quot;dd-MM-yyyy HH:mm&quot;" precision="-1" sourceType="" type="id_Date" originalLength="-1" usefulColumn="true"/>
       <column comment="" key="false" length="1000" name="course_activities_id" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="Is_delete" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="branch_id" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="discount_applicable" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="persession_fee" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="course_day" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="Is_delete" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="branch_id" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="discount_applicable" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="persession_fee" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="course_day" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
       <column comment="" key="false" length="1000" name="course_type" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="R" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="G" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="B" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="allow_mobile" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="ind_days" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="bulk_days" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="individual" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="days_before" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="R" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="G" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="B" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="allow_mobile" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="ind_days" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="bulk_days" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="individual" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="days_before" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
     </metadata>
     <metadata connector="REJECT" name="REJECT">
       <column comment="" key="false" length="1000" name="course_category_id" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
@@ -316,20 +316,20 @@
       <column comment="" key="false" length="1000" name="updated_by" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
       <column comment="" key="false" length="-1" name="updated_on" nullable="true" pattern="&quot;dd-MM-yyyy HH:mm&quot;" precision="-1" sourceType="" type="id_Date" originalLength="-1" usefulColumn="true"/>
       <column comment="" key="false" length="1000" name="course_activities_id" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="Is_delete" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="branch_id" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="discount_applicable" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="persession_fee" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="course_day" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="Is_delete" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="branch_id" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="discount_applicable" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="persession_fee" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="course_day" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
       <column comment="" key="false" length="1000" name="course_type" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="R" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="G" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="B" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="allow_mobile" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="ind_days" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="bulk_days" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="individual" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="days_before" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="R" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="G" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="B" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="allow_mobile" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="ind_days" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="bulk_days" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="individual" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="days_before" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
       <column defaultValue="" key="false" length="255" name="errorCode" nullable="true" precision="0" sourceType="" type="id_String" originalLength="-1" usefulColumn="true"/>
       <column defaultValue="" key="false" length="255" name="errorMessage" nullable="true" precision="0" sourceType="" type="id_String" originalLength="-1" usefulColumn="true"/>
     </metadata>
@@ -522,20 +522,20 @@
       <column comment="" key="false" length="1000" name="updated_by" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
       <column comment="" key="false" length="-1" name="updated_on" nullable="true" pattern="&quot;dd-MM-yyyy HH:mm&quot;" precision="-1" sourceType="" type="id_Date" originalLength="-1" usefulColumn="true"/>
       <column comment="" key="false" length="1000" name="course_activities_id" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="Is_delete" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="branch_id" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="discount_applicable" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="persession_fee" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="course_day" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="Is_delete" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="branch_id" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="discount_applicable" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="persession_fee" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="course_day" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
       <column comment="" key="false" length="1000" name="course_type" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="R" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="G" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="B" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="allow_mobile" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="ind_days" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="bulk_days" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="individual" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="days_before" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="R" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="G" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="B" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="allow_mobile" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="ind_days" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="bulk_days" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="individual" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="days_before" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
     </metadata>
     <metadata connector="REJECT" name="REJECT">
       <column comment="" key="false" length="1000" name="course_category_id" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
@@ -551,20 +551,20 @@
       <column comment="" key="false" length="1000" name="updated_by" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
       <column comment="" key="false" length="-1" name="updated_on" nullable="true" pattern="&quot;dd-MM-yyyy HH:mm&quot;" precision="-1" sourceType="" type="id_Date" originalLength="-1" usefulColumn="true"/>
       <column comment="" key="false" length="1000" name="course_activities_id" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="Is_delete" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="branch_id" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="discount_applicable" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="persession_fee" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="course_day" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="Is_delete" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="branch_id" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="discount_applicable" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="persession_fee" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="course_day" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
       <column comment="" key="false" length="1000" name="course_type" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="R" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="G" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="B" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="allow_mobile" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="ind_days" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="bulk_days" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="individual" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
-      <column comment="" key="false" length="1000" name="days_before" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="R" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="G" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="B" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="allow_mobile" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="ind_days" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="bulk_days" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="individual" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="days_before" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="1000" usefulColumn="true"/>
       <column defaultValue="" key="false" length="255" name="errorCode" nullable="true" precision="0" sourceType="VARCHAR" type="id_String" originalLength="-1" usefulColumn="true"/>
       <column defaultValue="" key="false" length="255" name="errorMessage" nullable="true" precision="0" sourceType="VARCHAR" type="id_String" originalLength="-1" usefulColumn="true"/>
     </metadata>
