@@ -497,7 +497,7 @@
     <metadata connector="FLOW" name="tFileInputExcel_1">
       <column comment="" key="false" length="50" name="members_id" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="50" usefulColumn="true"/>
       <column comment="" key="false" length="50" name="member_reg_no" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="50" usefulColumn="true"/>
-      <column comment="" key="false" length="50" name="member_reg_date" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="50" usefulColumn="true"/>
+      <column comment="" key="false" length="-1" name="member_reg_date" nullable="true" pattern="&quot;dd-MM-yyyy HH:mm&quot;" precision="-1" sourceType="" type="id_Date" originalLength="50" usefulColumn="true"/>
       <column comment="" key="false" length="-1" name="member_review_date" nullable="true" pattern="&quot;dd-MM-yyyy HH:mm&quot;" precision="-1" sourceType="" type="id_Date" originalLength="-1" usefulColumn="true"/>
       <column comment="" key="false" length="100" name="name_resident" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="100" usefulColumn="true"/>
       <column comment="" key="false" length="50" name="gender" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="50" usefulColumn="true"/>
@@ -570,7 +570,7 @@
     <metadata connector="REJECT" name="REJECT">
       <column comment="" key="false" length="50" name="members_id" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="50" usefulColumn="true"/>
       <column comment="" key="false" length="50" name="member_reg_no" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="50" usefulColumn="true"/>
-      <column comment="" key="false" length="50" name="member_reg_date" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="50" usefulColumn="true"/>
+      <column comment="" key="false" length="-1" name="member_reg_date" nullable="true" pattern="&quot;dd-MM-yyyy HH:mm&quot;" precision="-1" sourceType="" type="id_Date" originalLength="50" usefulColumn="true"/>
       <column comment="" key="false" length="-1" name="member_review_date" nullable="true" pattern="&quot;dd-MM-yyyy HH:mm&quot;" precision="-1" sourceType="" type="id_Date" originalLength="-1" usefulColumn="true"/>
       <column comment="" key="false" length="100" name="name_resident" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="100" usefulColumn="true"/>
       <column comment="" key="false" length="50" name="gender" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="50" usefulColumn="true"/>
@@ -1040,7 +1040,7 @@
     <metadata connector="FLOW" name="tDBOutput_1">
       <column comment="" key="false" length="50" name="members_id" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="50" usefulColumn="true"/>
       <column comment="" key="false" length="50" name="member_reg_no" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="50" usefulColumn="true"/>
-      <column comment="" key="false" length="50" name="member_reg_date" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="50" usefulColumn="true"/>
+      <column comment="" key="false" length="-1" name="member_reg_date" nullable="true" pattern="&quot;dd-MM-yyyy HH:mm&quot;" precision="-1" sourceType="" type="id_Date" originalLength="50" usefulColumn="true"/>
       <column comment="" key="false" length="-1" name="member_review_date" nullable="true" pattern="&quot;dd-MM-yyyy HH:mm&quot;" precision="-1" sourceType="" type="id_Date" originalLength="-1" usefulColumn="true"/>
       <column comment="" key="false" length="100" name="name_resident" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="100" usefulColumn="true"/>
       <column comment="" key="false" length="50" name="gender" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="50" usefulColumn="true"/>
@@ -1113,7 +1113,7 @@
     <metadata connector="REJECT" name="REJECT">
       <column comment="" key="false" length="50" name="members_id" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="50" usefulColumn="true"/>
       <column comment="" key="false" length="50" name="member_reg_no" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="50" usefulColumn="true"/>
-      <column comment="" key="false" length="50" name="member_reg_date" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="50" usefulColumn="true"/>
+      <column comment="" key="false" length="-1" name="member_reg_date" nullable="true" pattern="&quot;dd-MM-yyyy HH:mm&quot;" precision="-1" sourceType="" type="id_Date" originalLength="50" usefulColumn="true"/>
       <column comment="" key="false" length="-1" name="member_review_date" nullable="true" pattern="&quot;dd-MM-yyyy HH:mm&quot;" precision="-1" sourceType="" type="id_Date" originalLength="-1" usefulColumn="true"/>
       <column comment="" key="false" length="100" name="name_resident" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="100" usefulColumn="true"/>
       <column comment="" key="false" length="50" name="gender" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="50" usefulColumn="true"/>
